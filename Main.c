@@ -3,6 +3,8 @@
 #include <locale.h>
 #include "Task.h"
 
+// teste
+
 int main() {
 
     setlocale(LC_ALL, "pt_BR.UTF-8");
