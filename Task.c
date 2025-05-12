@@ -1,5 +1,6 @@
 #include "Task.h"
 #include<conio.h>
+#include <stdalign.h>
 
 void add_tarefa(StrTarefas Tarefas[], int *tarefas_registradas)
 {
